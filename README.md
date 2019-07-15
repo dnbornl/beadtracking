@@ -30,7 +30,7 @@ Most users will use the app along with code located in the scripts/ directory. S
 
 **1. ROI selection:** Use the Bead Tracker app to load the image sequence, visually examine the beads using the video and zoom/pan controls, and draw a custom region-of-interest (ROI) using the ROI tab controls. Save the ROI using the "Save" icon on the ROI tab; use the same basename for the .mat file (i.e. if your image file is myimages.tif, then name your ROI file myimages.mat).
 
-*NOTE: Drawing the ROI is not explicitly required for tracking beads, but it likely will help with pruning poor detections and yielding more reliable tracks, so it is highly recommended.
+*NOTE: Drawing the ROI is not explicitly required for tracking beads, but it likely will help with pruning poor detections and yielding more reliable tracks, so it is highly recommended.*
 
 You do not need to close the app as you can use it as a visual tool for later steps in the process.
 
